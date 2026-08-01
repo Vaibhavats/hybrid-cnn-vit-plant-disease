@@ -1,0 +1,21 @@
+# requirements.txt
+# Python 3.8+
+# Install with: pip install -r requirements.txt
+
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data / preprocessing
+Pillow>=9.0.0
+numpy>=1.23.0
+
+# Metrics
+scikit-learn>=1.2.0
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
