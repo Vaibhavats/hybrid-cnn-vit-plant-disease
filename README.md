@@ -6,7 +6,6 @@ The class count is inferred automatically; the included archive variant has
 15 classes and 20,638 leaf images.
 
 ---
----
 
 ## Internship Certificate
 
@@ -15,7 +14,7 @@ at the **Department of Computer Science and Engineering, Graphic Era Deemed to b
 
 **Duration:** 1 June 2026 – 10 July 2026
 
-📜 **[View Internship Certificate](./certificate.pdf)**
+📜 **[View Internship Certificate](https://github.com/Vaibhavats/hybrid-cnn-vit-plant-disease/blob/main/2024132_VAIBHAV_KUMAR.pdf)**
 
 ---
 ## Architecture Overview
