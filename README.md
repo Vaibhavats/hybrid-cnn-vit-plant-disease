@@ -6,7 +6,18 @@ The class count is inferred automatically; the included archive variant has
 15 classes and 20,638 leaf images.
 
 ---
+---
 
+## Internship Certificate
+
+This project was developed as part of my **Image Processing & Computer Vision Internship**
+at the **Department of Computer Science and Engineering, Graphic Era Deemed to be University, Dehradun**.
+
+**Duration:** 1 June 2026 – 10 July 2026
+
+📜 **[View Internship Certificate](./certificate.pdf)**
+
+---
 ## Architecture Overview
 
 ```
